@@ -304,7 +304,35 @@ public partial class Login : Form
         }
 
 
+Eesti keel
+            
+Sobiva mängu kujundused
+            
+Olenevalt vastusest taaskäivitage vorm või väljuge sellest.
 
+Tehke 3 raskust. Lihtne, tavaline ja raske
+            
+            
+Matemaatika viktoriini arendused.
+            
+            
+Tehke 3 raskust. Lihtne, tavaline ja raske
+
+
+Võimalus muuta valides näidete keerukust
+            
+
+Asendage vanad näited uutega.
+
+
+Pildivaaturi arendused.
+            
+Nupule klõpsates muudab see pildi piltidega kaustast juhuslikuks pildiks.
+            
+Võimalus lisada oma pilt pildikausta.
+            
+Registreerimis- ja sisselogimisvormi koostamine
+            
 
 
 
