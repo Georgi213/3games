@@ -9,6 +9,10 @@
 void restartGame() 
             {
                 if (MessageBox.Show($"Vead: {score.ToString()}\nAeg sekundid: {tik.ToString()}!\nKas soovite uuesti mängida?", "Tulemus!", MessageBoxButtons.YesNo) == DialogResult.Yes)
+                
+                
+                ![image](https://user-images.githubusercontent.com/77331773/196109979-4c4be12f-1cbd-493b-963b-8262dbbd0e2e.png)
+
                 {
 
                     Application.Restart();
